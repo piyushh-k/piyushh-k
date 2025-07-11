@@ -1,15 +1,13 @@
-<h1 align="center">Hey folks! I'm Piyush 👋</h1>
+<h1 align="center">Hey Techies! I'm Piyush. </h1>
 <h3 align="center">Engineering the web, one line of code at a time.</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CS Undergrad at **Vivekananda Institute of Professional Studies** (2024–2028)
-- 🔭 Currently building **[LinguaFlow](https://github.com/piyushh-k/LinguaFlow.git)** – a voice-to-text + translation web app with on-device AI!
+- 🔭 Currently building **[LinguaFlow](https://github.com/piyushh-k/LinguaFlow.git)** – a voice-to-text + translation web app. This app works entirely in your browser , no servers or sign-ups needed.
 - 🧠 Love exploring new **frontend tools**, libraries & frameworks.
 - 🤝 Open to collaboration and contributions on interesting frontend and AI-integrated web apps.
-- 💬 Ask me about **React**, **TailwindCSS**, **Transformers.js**, or even **bug-hunting in web projects**.
 - 📫 Reach me at **piyushkochar909@gmail.com**
 - 🌐 My portfolio → [Notion Portfolio](https://citrine-amber-92a.notion.site/Piyush-Kochar-Developer-Portfolio-22d35fce54de809a8863c3f05d40d447?source=copy_link)
 
@@ -21,7 +19,7 @@
 - 🧠 **State Management**: Redux Toolkit, React Context API
 - 🌐 **Tools & APIs**: Axios, React Router, Formik, React Hook Form
 - 🧪 **Version Control**: Git & GitHub
-- ⚙️ **Other**: Python, MySQL, Node.js (learning), AI tools like Transformers.js
+- ⚙️ **Other**: Python, MySQL, Node.js (learning), web integrated AI libraries like Transformers.js
 
 ---
 
@@ -30,6 +28,7 @@
 #### 🗣️ [LinguaFlow](https://github.com/piyushh-k/LinguaFlow)
 A voice-to-text + multilingual translation app — all in the browser.  
 Uses **Transformers.js** to run OpenAI Whisper + Meta NLLB locally with no backend (offline-safe).
+Currently implementing browser-side model caching to enable offline functionality and eliminate repeated downloads.
 
 #### 🛒 E-commerce React Store
 Fully responsive e-commerce frontend with:
